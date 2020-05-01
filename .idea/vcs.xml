@@ -3,8 +3,11 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../JavaDesignPatterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../dark_magic" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../failsafe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../guava" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../javadatastructure" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../javademo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../sd-src-parent" vcs="Git" />
   </component>
 </project>
